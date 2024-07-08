@@ -13,6 +13,8 @@ We also kindly invite you to our platform, Auto Driving Heart, for paper interpr
 - paper: https://arxiv.org/pdf/2402.11502
 - code: https://github.com/wzzheng/GenAD
 
+
+
 ### 2）LLM Agent | 大语言模型智能体
 
 **DriveLM: Driving with Graph Visual Question Answering**
@@ -25,7 +27,34 @@ We also kindly invite you to our platform, Auto Driving Heart, for paper interpr
 - paper: https://arxiv.org/pdf/2403.04593
 - code: https://github.com/OpenDriveLab/ELM
 
+**Controllable Navigation Instruction Generation with Chain of Thought Prompting**
+
+- paper: coming soon
+- code: https://github.com/refkxh/C-Instructor
+
+**Asynchronous Large Language Model Enhanced Planner for Autonomous Driving**
+
+- paper: coming soon
+- code: coming soon
+
+**TOD3Cap: Towards 3D Dense Captioning in Outdoor Scenes**
+
+- paper: https://arxiv.org/pdf/2403.19589
+- code: https://github.com/jxbbb/TOD3Cap
+
+**Global-Local Collaborative Inference with LLM for Lidar-Based Open-Vocabulary Detection**
+
+- paper: coming soon
+- code: https://github.com/GradiusTwinbee/GLIS
+
+
+
 ### 3）SSC: Semantic Scene Completion | 语义场景补全
+
+**Hierarchical Temporal Context Learning for Camera-based Semantic Scene Completion**
+
+- paper: https://arxiv.org/pdf/2407.02077
+- code: https://github.com/Arlo0o/HTCL
 
 
 
@@ -41,7 +70,29 @@ We also kindly invite you to our platform, Auto Driving Heart, for paper interpr
 - paper: https://arxiv.org/pdf/2405.17429
 - code: https://github.com/huang-yh/GaussianFormer
 
+**Occupancy as Set of Points**
+
+- paper: https://arxiv.org/pdf/2407.04049
+- code: https://github.com/hustvl/osp
+
+
+
 ### 5) World Model | 世界模型
+
+**OccWorld: 3D World Model for Autonomous Driving**
+
+- paper: https://arxiv.org/pdf/2311.16038
+- code: https://github.com/wzzheng/OccWorld
+
+**Modelling Competitive Behaviors in Autonomous Driving Under Generative World Model**
+
+- paper: coming soon
+- code: coming soon
+
+**DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving**
+
+- paper: https://arxiv.org/pdf/2309.09777
+- code: https://github.com/JeffWang987/DriveDreamer
 
 
 
@@ -52,13 +103,43 @@ We also kindly invite you to our platform, Auto Driving Heart, for paper interpr
 - paper: https://arxiv.org/pdf/2403.15951
 - code: https://github.com/woodfrog/maptracker
 
+**ADMap: Anti-disturbance framework for reconstructing online vectorized HD map**
+
+- paper: coming soon
+- code: https://github.com/hht1996ok/ADMap
+
+**Accelerating Online Mapping and Behavior Prediction via Direct BEV Feature Attention**
+
+- paper: coming soon
+- code: https://github.com/alfredgu001324/MapBEVPrediction
+
+**Leveraging Enhanced Queries of Point Sets for Vectorized Map Construction**
+
+- paper: https://arxiv.org/pdf/2402.17430
+- code: https://github.com/HXMap/MapQR
 
 
-### 7）Pre-training | 预训练
+
+### 7）Foundation Model
+
+**PartGLEE: A Foundation Model for Recognizing and Parsing Any Objects**
+
+- paper: coming soon
+- code: coming soon
 
 
 
-### 8）AIGC | 人工智能内容生成
+### 8）Robust Perception
+
+**Rethinking Data Augmentation for Robust LiDAR Semantic Segmentation in Adverse Weather**
+
+- paper: https://arxiv.org/pdf/2407.02286
+- code: https://github.com/engineerJPark/LiDAR-DataAug4Weather
+
+**R2-Bench: Benchmarking the Robustness of Referring Perception Models under Perturbations**
+
+- paper: coming soon
+- code: https://github.com/lxa9867/r2bench
 
 
 
@@ -73,6 +154,11 @@ We also kindly invite you to our platform, Auto Driving Heart, for paper interpr
 
 - paper: https://arxiv.org/pdf/2403.11848
 - code: https://github.com/adept-thu/GraphBEV
+
+**RecurrentBEV: A Long-term Temporal Fusion Framework for Multi-view 3D Detection**
+
+- paper: coming soon
+- code: https://github.com/lucifer443/RecurrentBEV
 
 **Ray Denoising: Depth-aware Hard Negative Sampling for Multi-view 3D Object Detection**
 
@@ -94,11 +180,50 @@ We also kindly invite you to our platform, Auto Driving Heart, for paper interpr
 - paper: coming soon
 - code: https://github.com/AlmoonYsl/OPEN
 
-### 10）Stereo Matching | 双目立体匹配
+**Make Your ViT-based Multi-view 3D Detectors Faster via Token Compression**
+
+- paper: coming soon
+- code: coming soon
+
+**SEED: A Simple and Effective 3D DETR in Point Clouds**
+
+- paper: coming soon
+- code: coming soon
+
+**Towards Stable 3D Object Detection**
+
+- paper: https://arxiv.org/pdf/2407.04305
+- code: https://github.com/jbwang1997/StabilityIndex
+
+
+
+
+
+### 10）Domain Adaptation & Test-Time Adaptation
+
+**Enhancing Source-Free Domain Adaptive Object Detection with Low-Confidence Pseudo-Label Distillation**
+
+- paper: coming soon
+- code: https://github.com/junia3/LPLD
+
+**Fully Test-Time Adaptation for Monocular 3D Object Detection**
+
+- paper: coming soon
+- code: https://github.com/Hongbin98/MonoTTA
+
+**Progressive Classifier and Feature Extractor Adaptation for Unsupervised Domain Adaptation on Point Clouds**
+
+- paper: https://arxiv.org/pdf/2303.01276
+- code: https://github.com/xiaoyao3302/PCFEA
 
 
 
 ### 11）Cooperative Perception | 协同感知
+
+**Plug and Play: A Representation Enhanced Domain Adapter for Collaborative Perception**
+
+- paper: coming soon
+- code: https://github.com/luotianyou349/PnPDA
 
 
 
@@ -117,6 +242,11 @@ We also kindly invite you to our platform, Auto Driving Heart, for paper interpr
 
 
 ### 14）Point Cloud | 点云
+
+**T-CorresNet: Template Guided 3D Point Cloud Completion with Correspondence Pooling Query Generation Strategy**
+
+- paper: coming soon
+- code: https://github.com/df-boy/T-CorresNet
 
 
 
@@ -155,7 +285,25 @@ We also kindly invite you to our platform, Auto Driving Heart, for paper interpr
 - paper: coming soon
 - code: https://github.com/WU-CVGL/BeNeRF
 
+**PreSight: Enhancing Autonomous Vehicle Perception with City-Scale NeRF Priors**
 
+- paper: https://arxiv.org/pdf/2403.09079
+- code: https://github.com/yuantianyuan01/PreSight
+
+**GaussianImage: 1000 FPS Image Representation and Compression by 2D Gaussian Splatting**
+
+- paper: https://arxiv.org/pdf/2403.08551
+- code: https://github.com/Xinjie-Q/GaussianImage
+
+**SG-NeRF: Neural Surface Reconstruction with Scene Graph Optimization**
+
+- paper: coming soon
+- code: https://github.com/Iris-cyy/SG-NeRF
+
+**Disentangled Generation and Aggregation for Robust Radiance Fields**
+
+- paper: coming soon
+- code: https://github.com/GaoHchen/Robust-Triplane
 
 
 
@@ -165,6 +313,8 @@ We also kindly invite you to our platform, Auto Driving Heart, for paper interpr
 
 - paper: coming soon
 - code: https://github.com/HengLan/SMOT
+
+
 
 ### 20）Multi-label Atomic Activity Recognition
 
@@ -187,11 +337,7 @@ We also kindly invite you to our platform, Auto Driving Heart, for paper interpr
 
 
 
-
-
 ### 24) Event Camera | 事件相机
-
-
 
 
 
