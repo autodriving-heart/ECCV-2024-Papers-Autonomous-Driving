@@ -13,6 +13,11 @@ We also kindly invite you to our platform, Auto Driving Heart, for paper interpr
 - paper: https://arxiv.org/pdf/2402.11502
 - code: https://github.com/wzzheng/GenAD
 
+**CarFormer: Self-Driving with Learned Object-Centric Representations**
+
+- paper: https://arxiv.org/pdf/2407.15843
+- code: https://github.com/Shamdan17/CarFormer
+
 
 
 ### 2）LLM Agent | 大语言模型智能体
@@ -47,6 +52,11 @@ We also kindly invite you to our platform, Auto Driving Heart, for paper interpr
 - paper: coming soon
 - code: https://github.com/GradiusTwinbee/GLIS
 
+**Dolphins: Multimodal Language Model for Driving**
+
+- paper: https://arxiv.org/pdf/2312.00438
+- code: https://github.com/SaFoLab-WISC/Dolphins
+
 
 
 ### 3）SSC: Semantic Scene Completion | 语义场景补全
@@ -55,6 +65,11 @@ We also kindly invite you to our platform, Auto Driving Heart, for paper interpr
 
 - paper: https://arxiv.org/pdf/2407.02077
 - code: https://github.com/Arlo0o/HTCL
+
+**Pyramid Diffusion for Fine 3D Large Scene Generation**
+
+- paper: https://arxiv.org/pdf/2311.12085
+- code: https://github.com/yuhengliu02/pyramid-discrete-diffusion
 
 
 
@@ -74,6 +89,16 @@ We also kindly invite you to our platform, Auto Driving Heart, for paper interpr
 
 - paper: https://arxiv.org/pdf/2407.04049
 - code: https://github.com/hustvl/osp
+
+**Open Vocabulary 3D Scene Understanding via Geometry Guided Self-Distillation**
+
+- paper: https://arxiv.org/pdf/2407.13362
+- code: https://github.com/Wang-pengfei/GGSD
+
+**ViewFormer: Exploring Spatiotemporal Modeling for Multi-View 3D Occupancy Perception via View-Guided Transformers**
+
+- paper: https://arxiv.org/pdf/2405.04299
+- code: https://github.com/ViewFormerOcc/ViewFormer-Occ
 
 
 
@@ -195,7 +220,20 @@ We also kindly invite you to our platform, Auto Driving Heart, for paper interpr
 - paper: https://arxiv.org/pdf/2407.04305
 - code: https://github.com/jbwang1997/StabilityIndex
 
+**FSD-BEV: Foreground Self-Distillation for Multi-view 3D Object Detection**
 
+- paper: coming soon
+- code: https://github.com/CocoBoom/fsd-bev
+
+**HENet: Hybrid Encoding for End-to-end Multi-task 3D Perception from Multi-view Cameras**
+
+- paper: https://arxiv.org/pdf/2404.02517
+- code: https://github.com/VDIGPKU/HENet
+
+**RepVF: A Unified Vector Fields Representation for Multi-task 3D Perception**
+
+- paper: https://arxiv.org/pdf/2407.10876
+- code: https://github.com/jbji/RepVF
 
 
 
@@ -216,6 +254,11 @@ We also kindly invite you to our platform, Auto Driving Heart, for paper interpr
 - paper: https://arxiv.org/pdf/2303.01276
 - code: https://github.com/xiaoyao3302/PCFEA
 
+**CMD: A Cross Mechanism Domain Adaptation Dataset for 3D Object Detection**
+
+- paper: coming soon
+- code: https://github.com/im-djh/CMD
+
 
 
 ### 11）Cooperative Perception | 协同感知
@@ -227,7 +270,12 @@ We also kindly invite you to our platform, Auto Driving Heart, for paper interpr
 
 
 
-### 12）SLAM
+### 12）Semantic Segmentation
+
+**MUSES: The Multi-Sensor Semantic Perception Dataset for Driving under Uncertainty**
+
+- paper: https://arxiv.org/pdf/2401.12761
+- code: https://github.com/timbroed/MUSES
 
 
 
@@ -236,8 +284,13 @@ We also kindly invite you to our platform, Auto Driving Heart, for paper interpr
 
 **4D Contrastive Superflows are Dense 3D Representation Learners**
 
-- paper: coming soon
+- paper: https://arxiv.org/pdf/2407.06190
 - code: https://github.com/Xiangxu-0103/SuperFlow
+
+**SeFlow: A Self-Supervised Scene Flow Method in Autonomous Driving**
+
+- paper: https://arxiv.org/pdf/2407.01702
+- code: https://github.com/KTH-RPL/SeFlow
 
 
 
@@ -247,6 +300,11 @@ We also kindly invite you to our platform, Auto Driving Heart, for paper interpr
 
 - paper: coming soon
 - code: https://github.com/df-boy/T-CorresNet
+
+**Dual-level Adaptive Self-Labeling for Novel Class Discovery in Point Cloud Segmentation**
+
+- paper: https://arxiv.org/pdf/2407.12489
+- code: https://github.com/RikkiXu/NCD_PC
 
 
 
@@ -260,6 +318,11 @@ We also kindly invite you to our platform, Auto Driving Heart, for paper interpr
 
 
 ### 17）Radar | 毫米波雷达
+
+**Sparse Beats Dense: Rethinking Supervision in Radar-Camera Depth Completion**
+
+- paper: https://arxiv.org/pdf/2312.00844
+- code: https://github.com/megvii-research/Sparse-Beats-Dense
 
 
 
@@ -334,6 +397,21 @@ We also kindly invite you to our platform, Auto Driving Heart, for paper interpr
 
 - paper: coming soon
 - code: https://github.com/zhyever/PatchRefiner
+
+**ProDepth: Boosting Self-Supervised Multi-Frame Monocular Depth with Probabilistic Fusion**
+
+- paper: https://arxiv.org/pdf/2407.09303
+- code: https://github.com/Sungmin-Woo/ProDepth
+
+**Diffusion Models for Monocular Depth Estimation: Overcoming Challenging Conditions**
+
+- paper: https://arxiv.org/pdf/2407.16698
+- code: https://github.com/fabiotosi92/Diffusion4RobustDepth
+
+**Mono-ViFI: A Unified Learning Framework for Self-supervised Single- and Multi-frame Monocular Depth Estimation**
+
+- paper: https://arxiv.org/pdf/2407.14126
+- code: https://github.com/LiuJF1226/Mono-ViFI
 
 
 
