@@ -234,8 +234,11 @@ We also kindly invite you to our platform, Auto Driving Heart, for paper interpr
 
 - paper: https://arxiv.org/pdf/2407.10876
 - code: https://github.com/jbji/RepVF
+  
+**Approaching Outside: Scaling Unsupervised 3D Object Detection from 2D Scene**
 
-
+- paper: https://arxiv.org/abs/2407.08569
+- code: https://github.com/Ruiyang-061X/LiSe
 
 ### 10）Domain Adaptation & Test-Time Adaptation
 
