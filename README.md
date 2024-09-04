@@ -308,12 +308,31 @@ We also kindly invite you to our platform, Auto Driving Heart, for paper interpr
 
 
 
+### 15)  Generative Model
 
-### 15)  Efficient Network
+**RealGen: Retrieval Augmented Generation for Controllable Traffic Scenarios**
+
+- paper: https://arxiv.org/pdf/2312.13303
+- code: https://realgen.github.io/
+
+**SLEDGE: Synthesizing Driving Environments with Generative Models and Rule-Based Traffic**
+
+- paper: https://arxiv.org/pdf/2403.17933
+- code: https://github.com/autonomousvision/sledge
+
+**Photorealistic Object Insertion with Diffusion-Guided Inverse Rendering**
+
+- paper: https://arxiv.org/pdf/2408.09702
+- code: https://research.nvidia.com/labs/toronto-ai/DiPIR/
 
 
 
-### 16) Segmentation
+### 16) Optical Flow
+
+**SEA-RAFT: Simple, Efficient, Accurate RAFT for Optical Flow**
+
+- paper: https://arxiv.org/pdf/2405.14793
+- code: https://github.com/princeton-vl/SEA-RAFT
 
 
 
@@ -379,7 +398,12 @@ We also kindly invite you to our platform, Auto Driving Heart, for paper interpr
 
 
 
-### 20）Multi-label Atomic Activity Recognition
+### 20）Lane Detection | 车道线检测
+
+OMR: Occlusion-Aware Memory-Based Refinement for Video Lane Detection
+
+- paper: https://arxiv.org/pdf/2408.07486
+- code: https://github.com/dongkwonjin/OMR
 
 
 
@@ -413,6 +437,11 @@ We also kindly invite you to our platform, Auto Driving Heart, for paper interpr
 - paper: https://arxiv.org/pdf/2407.14126
 - code: https://github.com/LiuJF1226/Mono-ViFI
 
+**M2Depth: Self-supervised Two-Frame Multi-camera Metric Depth Estimation**
+
+- paper: https://arxiv.org/pdf/2405.02004
+- code: https://heiheishuang.xyz/M2Depth/
+
 
 
 ### 24) Event Camera | 事件相机
@@ -428,7 +457,12 @@ We also kindly invite you to our platform, Auto Driving Heart, for paper interpr
 
 
 
+## 26）Normalized Object Coordinates
 
+**OmniNOCS: A unified NOCS dataset and model for 3D lifting of 2D objects**
+
+- paper: https://arxiv.org/pdf/2407.08711
+- code: https://omninocs.github.io/
 
 
 
