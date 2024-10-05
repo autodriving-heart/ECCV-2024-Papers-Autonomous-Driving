@@ -100,6 +100,13 @@ We also kindly invite you to our platform, Auto Driving Heart, for paper interpr
 - paper: https://arxiv.org/pdf/2405.04299
 - code: https://github.com/ViewFormerOcc/ViewFormer-Occ
 
+**nuCraft: Crafting High Resolution 3D Semantic Occupancy for Unified 3D Scene Understanding**
+
+- paper: https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00730.pdf
+- code: coming soon
+
+
+
 
 
 ### 5) World Model | 世界模型
@@ -240,6 +247,28 @@ We also kindly invite you to our platform, Auto Driving Heart, for paper interpr
 - paper: https://arxiv.org/abs/2407.08569
 - code: https://github.com/Ruiyang-061X/LiSe
 
+**SimPB: A Single Model for 2D and 3D Object Detection from Multiple  Cameras**
+
+- paper: https://arxiv.org/pdf/2403.10353
+- code: https://github.com/nullmax-vision/SimPB
+
+**Interactive 3D Object Detection with Prompts**
+
+- paper: https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02556.pdf
+- code: coming soon
+
+**CSOT: Cross-Scan Object Transfer for Semi-Supervised LiDAR Object Detection**
+
+- paper: https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02623.pdf
+- code: https://github.com/JinglinZhan/CSOT
+
+**Approaching Outside: Scaling Unsupervised 3D Object Detection from 2D Scene**
+
+- paper: https://arxiv.org/pdf/2407.08569
+- code: coming soon
+
+
+
 ### 10）Domain Adaptation & Test-Time Adaptation
 
 **Enhancing Source-Free Domain Adaptive Object Detection with Low-Confidence Pseudo-Label Distillation**
@@ -271,14 +300,19 @@ We also kindly invite you to our platform, Auto Driving Heart, for paper interpr
 - paper: coming soon
 - code: https://github.com/luotianyou349/PnPDA
 
+**Align before Collaborate: Mitigating Feature Misalignment for Robust Multi-Agent Perception**
+
+- paper: https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00560.pdf
+- code: coming soon
 
 
-### 12）Semantic Segmentation
 
-**MUSES: The Multi-Sensor Semantic Perception Dataset for Driving under Uncertainty**
+### 12）World Model
 
-- paper: https://arxiv.org/pdf/2401.12761
-- code: https://github.com/timbroed/MUSES
+**Neural Volumetric World Models for Autonomous Driving**
+
+- paper: https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02571.pdf
+- code: coming soon
 
 
 
@@ -295,9 +329,14 @@ We also kindly invite you to our platform, Auto Driving Heart, for paper interpr
 - paper: https://arxiv.org/pdf/2407.01702
 - code: https://github.com/KTH-RPL/SeFlow
 
+ **I Can't Believe It's Not Scene Flow!**
+
+- paper: https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02757.pdf
+- code: https://github.com/kylevedder/BucketedSceneFlowEval
 
 
-### 14）Point Cloud | 点云
+
+### 14）Point Cloud  Semantic Segmentation| 点云
 
 **T-CorresNet: Template Guided 3D Point Cloud Completion with Correspondence Pooling Query Generation Strategy**
 
@@ -308,6 +347,41 @@ We also kindly invite you to our platform, Auto Driving Heart, for paper interpr
 
 - paper: https://arxiv.org/pdf/2407.12489
 - code: https://github.com/RikkiXu/NCD_PC
+
+**SFPNet: Sparse Focal Point Network for Semantic Segmentation on General  LiDAR Point Clouds**
+
+- paper: https://arxiv.org/pdf/2407.11569
+- code: coming soon
+
+**RAPiD-Seg: Range-Aware Pointwise Distance Distribution Networks for 3D LiDAR Segmentation**
+
+- paper: https://arxiv.org/pdf/2407.10159
+- code: coming soon
+
+**ItTakesTwo: Leveraging Peer Representations for Semi-supervised LiDAR Semantic Segmentation**
+
+- paper: https://arxiv.org/pdf/2407.07171
+- code: coming soon
+
+**Rethinking Data Augmentation for Robust LiDAR Semantic Segmentation in Adverse Weather**
+
+- paper: https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02480.pdf
+- code: https://github.com/engineerJPark/LiDARWeather
+
+**MUSES: The Multi-Sensor Semantic Perception Dataset for Driving under Uncertainty**
+
+- paper: https://arxiv.org/pdf/2401.12761
+- code: https://github.com/timbroed/MUSES
+
+**Train Till You Drop: Towards Stable and Robust Source-free Unsupervised 3D Domain Adaptation**
+
+- paper: https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02968.pdf
+- code: https://github.com/valeoai/TTYD
+
+**T-MAE: Temporal Masked Autoencoders for Point Cloud Representation Learning**
+
+- paper: https://arxiv.org/pdf/2312.10217
+- code: coming soon
 
 
 
@@ -390,23 +464,53 @@ We also kindly invite you to our platform, Auto Driving Heart, for paper interpr
 - paper: coming soon
 - code: https://github.com/GaoHchen/Robust-Triplane
 
+**RPBG: Towards Robust Neural Point-based Graphics in the Wild**
+
+- paper: https://arxiv.org/pdf/2405.05663
+- code: coming soon
 
 
-### 19）MOT: Muti-object Tracking | 多物体跟踪
+
+### 19）Object Tracking | 目标跟踪
 
 **Beyond MOT: Semantic Multi-Object Tracking**
 
 - paper: coming soon
 - code: https://github.com/HengLan/SMOT
 
+**3D Single-object Tracking in Point Clouds with High Temporal Variation**
+
+- paper: https://arxiv.org/pdf/2408.02049
+- code: coming soon
+
+**OneTrack: Demystifying the Conflict Between Detection and Tracking in End-to-End 3D Trackers**
+
+- paper: https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/01174.pdf
+- code: coming soon
+
+**Walker: Self-supervised Multiple Object Tracking by Walking on Temporal Object Appearance Graphs**
+
+- paper: https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/01205.pdf
+- code: https://github.com/mattiasegu/walker
+
+**Boosting 3D Single Object Tracking with 2D Matching Distillation and 3D Pre-training**
+
+- paper: https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/01900.pdf
+- code: coming soon
+
 
 
 ### 20）Lane Detection | 车道线检测
 
-OMR: Occlusion-Aware Memory-Based Refinement for Video Lane Detection
+**OMR: Occlusion-Aware Memory-Based Refinement for Video Lane Detection**
 
 - paper: https://arxiv.org/pdf/2408.07486
 - code: https://github.com/dongkwonjin/OMR
+
+**RoadPainter: Points Are Ideal Navigators for Topology transformER**
+
+- paper: https://arxiv.org/pdf/2407.15349
+- code: coming soon
 
 
 
@@ -415,6 +519,18 @@ OMR: Occlusion-Aware Memory-Based Refinement for Video Lane Detection
 
 
 ### 22) Trajectory Prediction | 轨迹预测
+
+**VisionTrap: Vision-Augmented Trajectory Prediction Guided by Textual Descriptions**
+
+- paper: https://arxiv.org/pdf/2407.12345
+- code: https://moonseokha.github.io/VisionTrap/
+
+**Risk-Aware Self-Consistent Imitation Learning for Trajectory Planning in Autonomous Driving**
+
+- paper: https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02087.pdf
+- code: coming soon
+
+
 
 
 
@@ -460,7 +576,7 @@ OMR: Occlusion-Aware Memory-Based Refinement for Video Lane Detection
 
 
 
-## 26）Normalized Object Coordinates
+### 26）Normalized Object Coordinates
 
 **OmniNOCS: A unified NOCS dataset and model for 3D lifting of 2D objects**
 
